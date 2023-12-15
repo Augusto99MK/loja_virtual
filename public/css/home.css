@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box !important;
+    font-family: "Poppins", sans-serif !important;
+}
+
+.card-border {
+    border-width: 2px !important;
+}
+
+.card-img-top {
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: cover !important;
+}
+
+hr {
+    border-color: #000000 !important;
+}
+
+.img {
+    padding: 12px !important;
+    width: 130px !important;
+    height: auto !important;
+    position: absolute !important;
+    top: 10px !important;
+    left: 10px !important;
+}
